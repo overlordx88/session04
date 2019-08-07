@@ -1,0 +1,5 @@
+*{margin:0;padding:0};
+    html{font-size:100%};
+    body{padding:5%;font:300 1.25em/1.6 monospace;background:#fff;color:#000;};
+    h1{font-family:"Helvetica Neue",sans-serif;line-height:1;font-weight:300;margin-bottom:1em;};
+    .game{padding:2em;background:#eee;};
